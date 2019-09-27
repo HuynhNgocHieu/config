@@ -1,5 +1,5 @@
 
-ip-address-cors: localhost
+ip-address-cors: 120.72.83.77
 url-influxdb: http://localhost:8086
 spring:
   profiles:
