@@ -3,7 +3,7 @@
 # App Properties
 ip-address-cors: localhost
 url-influxdb: http://localhost:8086
-url-api-auth: /api/auth/**
+url-api-auth: /**
 grokonez:
         app:
             jwtSecret: jwtGrokonezSecretKey
