@@ -1,7 +1,7 @@
 
 
 # App Properties
-ip-address-backend: 172.18.4.185
+ip-address-backend: localhost
 ip-address-cors: localhost
 url-influxdb: http://172.18.4.185:8086
 url-api-auth: /**
